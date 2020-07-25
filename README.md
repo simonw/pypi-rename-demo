@@ -1,4 +1,4 @@
-# pypy-rename-demo in now sqlite-utils
+# pypy-rename-demo is now sqlite-utils
 
 This package has been renamed. Use `pip install sqlite-utils` instead.
 
