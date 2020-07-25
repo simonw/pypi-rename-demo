@@ -1,7 +1,7 @@
 from setuptools import setup
 import os
 
-VERSION = "0.1"
+VERSION = "0.5"
 
 
 def get_long_description():
@@ -13,11 +13,11 @@ def get_long_description():
 
 
 setup(
-    name="pypy-rename-demo",
-    description="pypy-rename-demo is now sqlite-utils",
+    name="datasette-insert-api",
+    description="datasette-insert-api is now datasette-insert",
     long_description=get_long_description(),
     long_description_content_type="text/markdown",
     version=VERSION,
-    install_requires=["sqlite-utils"],
+    install_requires=["datasette-insert"],
     classifiers=["Development Status :: 7 - Inactive"],
 )

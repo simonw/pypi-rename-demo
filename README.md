@@ -1,5 +1,5 @@
-# pypy-rename-demo is now sqlite-utils
+# datasette-insert-api is now datasette-insert
 
-This package has been renamed. Use `pip install sqlite-utils` instead.
+This package has been renamed. Use `pip install datasette-insert` instead.
 
-New package: https://pypi.org/project/sqlite-utils/
+New package: https://pypi.org/project/datasette-insert/
